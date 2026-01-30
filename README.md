@@ -13,7 +13,6 @@ _Antonios Valamontes, Kapodistrian Academy of Science_
 - `gyroid_unit_cell.png`: Visualization of gyroid point cloud
 - `hybrid_lattice.png`: Hybrid gyroid-diamond lattice structure
 - `stress_cross_section.png`: Cross-sectional stress pathway map
-- `nanoarchitected_lattice_full_main.tex`: Full LaTeX manuscript
 
 ## License
 

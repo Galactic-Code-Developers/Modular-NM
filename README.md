@@ -3,8 +3,8 @@
 
 This repository contains the **design and manufacturing assets** associated with the *Modular Nanoarchitected Metamaterials (Modular-NM)* project.
 
-It intentionally **does not include** the scientific manuscript, LaTeX sources, or draft PDFs.  
-The paper is distributed only in its **published PDF form** through appropriate academic channels.
+It intentionally **does not include** the scientific manuscript, LaTeX sources, drafts, or preprints.  
+The paper is distributed **only in published PDF form** through appropriate academic channels.
 
 The purpose of this repository is to provide **authoritative geometric and manufacturing artifacts** corresponding to the published work, enabling verification, controlled reuse, and licensed application of the underlying structural system.
 
@@ -24,7 +24,7 @@ This release includes **non-textual assets only**, specifically:
 - **Reproducibility manifest**
   - `SHA256SUMS.txt` with cryptographic hashes for every file in this release
 
-These files collectively represent the **functional geometric system** described in the paper, independent of any specific manuscript layout.
+These files collectively represent the **functional geometric system** described in the paper, independent of any manuscript layout or formatting.
 
 ---
 
@@ -90,10 +90,27 @@ This repository is released under the
 **Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)** license.
 
 - ✅ Non-commercial research and academic use permitted with attribution  
-- ❌ Commercial manufacturing, resale, or derivative commercial use **not permitted** under this license  
+- ❌ Commercial manufacturing, resale, deployment, or derivative commercial use **not permitted** under this license  
 
 Commercial licensing, manufacturing agreements, or derivative deployments require a **separate written license** from the author.
 
-The geometric configuration and hybridization logic are protected under applicable intellectual-property frameworks governing functional metamaterial structures.
+### Geometry-as-Product Clarification
 
-See `LICENSE` for full terms.
+The subject of this license includes not only expressive content but also **functional geometric configurations**, including but not limited to lattice topology, curvature–lattice coupling, node reinforcement logic, and scale-invariant geometric relationships embodied in the provided CAD and manufacturing files.
+
+For the avoidance of doubt, the **STL, OBJ, STEP, 3MF, and related geometry files constitute the product itself**, not merely illustrative representations. Any reproduction, modification, rescaling, parameter variation, or derivative geometry that preserves substantially similar structural, topological, or functional characteristics is considered a derivative work under this license.
+
+Minor geometric modifications, rescaling, slicer-based regeneration, or format conversion do **not** exempt derivative works from the commercial licensing requirement.
+
+---
+
+## Patent Notice
+
+Certain structural, geometric, and manufacturing aspects of the nanoarchitected metamaterial systems represented in this repository may be subject to existing or future intellectual property protection, including patents or patent applications, in applicable jurisdictions.
+
+No license to any patent rights—express or implied—is granted by distribution of these files, except as explicitly permitted for non-commercial research and academic evaluation under the accompanying license.  
+This notice is provided for defensive clarity and does not constitute a public disclosure or waiver of any rights.
+
+---
+
+For questions regarding commercial licensing or authorized use, contact the author directly.

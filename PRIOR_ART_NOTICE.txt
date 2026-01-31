@@ -1,17 +1,9 @@
-Prior-Art and Defensive Publication Notice
+PRIOR-ART / PUBLIC DISCLOSURE NOTICE (Defensive Timestamp)
 
-This repository release constitutes a public, timestamped disclosure of the geometric
-configurations, lattice hybridization logic, and manufacturing relationships embodied in the
-Modular Nanoarchitected Metamaterials (Modular-NM) system.
+Timestamp (UTC): 2026-01-31T21:47:09Z
 
-Release timestamp: 2026-01-31
+This release publicly discloses the included CAD/manufacturing/simulation assets and their associated file
+names and hashes (see SHA256SUMS.txt). The intent is to create a verifiable prior-art record of the disclosed
+geometries, parameterizations, and manufacturing embodiments as of the timestamp above.
 
-This disclosure is intended to:
-- establish prior art for the disclosed geometries and methods,
-- prevent third-party patent claims on substantially similar structures,
-- and preserve the author’s rights to commercial licensing and future patent filings.
-
-No waiver of rights is implied. This notice does not grant permission for commercial use.
-
-Recommended citation:
-Valamontes, A., “Modular Nanoarchitected Metamaterial Geometry Assets,” public repository release.
+This notice is defensive and informational. It does not assert that any patent exists or will be pursued.

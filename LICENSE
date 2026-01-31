@@ -1,27 +1,41 @@
-Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)
+Modular-NM Release Assets License (Non-Commercial)
 
-This work is licensed under the Creative Commons Attribution–NonCommercial 4.0 International License.
-You may not use the material for commercial purposes.
+Copyright (c) 2026 Antonios Valamontes, Kapodistrian Academy of Science.
+All rights reserved.
 
-Full license text: https://creativecommons.org/licenses/by-nc/4.0/
+This repository contains CAD, manufacturing, and simulation assets (including but not limited to STL/OBJ/STEP/3MF files,
+meshes, and derived geometric parameterizations). These assets are "geometry-as-product": the geometry itself is the
+licensed material.
 
-----------------------------------------------------------------
-Geometry-as-Product Clarification
-----------------------------------------------------------------
+NON-COMMERCIAL LICENSE GRANT
+You are granted a worldwide, royalty-free, non-exclusive license to use, copy, and share the assets for
+personal, academic, and other non-commercial purposes, provided you:
 
-The subject of this license includes not only expressive content but also functional geometric
-configurations, including but not limited to lattice topology, curvature–lattice coupling,
-node reinforcement logic, and scale-invariant geometric relationships embodied in the provided
-CAD and manufacturing files.
+  (1) Attribute the author (Antonios Valamontes) and the project name (Modular-NM) in any public use or redistribution.
+  (2) Include this LICENSE file with any redistribution of the assets (modified or unmodified).
+  (3) Clearly mark any modifications you make.
 
-For the avoidance of doubt, the STL, OBJ, STEP, 3MF, and related geometry files constitute the
-product itself, not merely illustrative representations. Any reproduction, modification,
-rescaling, parameter variation, or derivative geometry that preserves substantially similar
-structural, topological, or functional characteristics is considered a derivative work under
-this license.
+COMMERCIAL USE REQUIRES A SEPARATE LICENSE
+Commercial use is NOT permitted under this license. "Commercial use" includes, without limitation:
+manufacturing for sale, paid services using the assets, bundling in paid products, distribution to customers,
+use in a commercial production pipeline, or any monetized derivative work that relies on these geometries.
+For commercial licensing, contact the rights holder.
 
-Minor geometric modifications, rescaling, slicer-based regeneration, or format conversion do
-not exempt derivative works from the commercial licensing requirement.
+NO PATENT RIGHTS
+No rights are granted under any patent, patent application, or other intellectual property right, except
+as explicitly stated above for non-commercial copyright license.
 
-Commercial manufacture, deployment, distribution, or derivative commercial use requires a
-separate written license from the author.
+NO WARRANTY
+THE ASSETS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR OR RIGHTS HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION
+WITH THE ASSETS OR THEIR USE.
+
+PATENT NOTICE (DEFENSIVE; NON-CLAIMING)
+This public release is intended to establish a dated technical disclosure of the geometric configurations,
+parameterizations, and manufacturing embodiments contained herein. Nothing in this notice constitutes a
+representation that any particular invention is patented or patent-pending, nor does it waive any rights.
+If patent rights exist now or in the future, they are not licensed by this repository unless a separate
+written agreement expressly grants them.
+
+Last updated: 2026-01-31 (Europe/Athens)
